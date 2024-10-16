@@ -1,10 +1,10 @@
-# Cryptography---Exp-13-Implement-Message-Authentication-Code
+# Exp-13 Implement Message Authentication Code
 
 ## AIM:
 
 To generate and verify a Message Authentication Code (MAC) for ensuring the integrity and authenticity of a message using a simple XOR operation.
 
-## ALGORITHM:
+## DESIGN STEPS:
 
 ### Step 1:
 
